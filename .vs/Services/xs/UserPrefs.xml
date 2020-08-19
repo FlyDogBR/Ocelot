@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C2C4AE19-C95A-4CC5-A291-43E13E829ABC}|Catalogo">
+  <MonoDevelop.Ide.ItemProperties.Catalogo PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gateway/configuration.json">
+    <Files>
+      <File FileName="Catalogo/Program.cs" Line="25" Column="1" />
+      <File FileName="Gateway/configuration.json" Line="26" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Services" expanded="True">
+            <Node name="Catalogo" expanded="True" />
+            <Node name="Gateway" expanded="True">
+              <Node name="configuration.json" selected="True" />
+            </Node>
+            <Node name="Pedido" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
